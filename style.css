@@ -1,0 +1,30 @@
+body{
+	font-family:sans-serif;
+}
+
+form {
+	padding-top:50px;
+	text-align:center;
+	font-size:30px;
+	color:lightblue;
+}
+input{
+	width:250px;
+	height:40px;
+	font-size:30px;
+	color:lightblue;
+
+}
+
+h1{
+	text-align: center;
+	color:green;
+	font-size:40px;
+	padding-top:50px;
+}
+.mojdiv{
+	width:500px;
+	height:400px;
+	background-color: grey;
+	margin: auto;
+}
